@@ -1,2 +1,2 @@
 # Tecblog
-Projeto tecblog - Curso de desenvolvimento web - Udemy. :D
+Projeto Tecblog - Curso de desenvolvimento web - Udemy. :D
